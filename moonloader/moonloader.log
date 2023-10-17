@@ -1,0 +1,51 @@
+
+ MoonLoader v.027.0-preview3 loaded.
+ Developers: FYP, hnnssy, EvgeN 1137
+
+ Copyright (c) 2016, BlastHack Team
+ http://blast.hk/moonloader/
+
+[21:33:16.154458] (debug)	Module handle: 0x53cb0000
+[21:33:16.154458] (info)	Working directory: E:\games\RADMIR MOONLOADER\moonloader
+[21:33:16.154458] (debug)	FP Control: 0x0009001F
+[21:33:16.154458] (debug)	Windows: 10.0.22621 2
+[21:33:16.154458] (debug)	Game: GTA SA 1.0 US 'HoodLum'
+[21:33:16.154458] (system)	Installing pre-game hooks...
+[21:33:16.156452] (system)	Hooks installed.
+[21:33:16.469483] (debug)	Opcode handler table: 0x6b8ecca0
+[21:33:16.469483] (debug)	LUA_PATH = E:\games\RADMIR MOONLOADER\moonloader\libstd\?.lua;E:\games\RADMIR MOONLOADER\moonloader\libstd\?\init.lua;E:\games\RADMIR MOONLOADER\moonloader\lib\?.lua;E:\games\RADMIR MOONLOADER\moonloader\lib\?.luac;E:\games\RADMIR MOONLOADER\moonloader\lib\?\init.lua;E:\games\RADMIR MOONLOADER\moonloader\lib\?\init.luac
+[21:33:16.469483] (debug)	LUA_CPATH = E:\games\RADMIR MOONLOADER\moonloader\libstd\?.dll;E:\games\RADMIR MOONLOADER\moonloader\lib\?.dll
+[21:33:16.471843] (system)	Loading script "E:\games\RADMIR MOONLOADER\moonloader\atools.luac"...	(id:1)
+[21:33:16.482504] (system)	Admin Tools RRP 08: Loaded successfully.
+[21:33:16.482504] (system)	Loading script "E:\games\RADMIR MOONLOADER\moonloader\AutoReboot.lua"...	(id:2)
+[21:33:16.483499] (system)	ML-AutoReboot: Loaded successfully.
+[21:33:16.483499] (system)	Loading script "E:\games\RADMIR MOONLOADER\moonloader\check-moonloader-updates.lua"...	(id:3)
+[21:33:16.485009] (system)	Check MoonLoader Updates: Loaded successfully.
+[21:33:16.485203] (system)	Loading script "E:\games\RADMIR MOONLOADER\moonloader\reload_all.lua"...	(id:4)
+[21:33:16.485203] (system)	ML-ReloadAll: Loaded successfully.
+[21:33:16.485203] (system)	Loading script "E:\games\RADMIR MOONLOADER\moonloader\SF Integration.lua"...	(id:5)
+[21:33:16.487301] (system)	SF Integration: Loaded successfully.
+[21:33:38.020273] (system)	Installing post-load hooks...
+[21:33:38.020273] (system)	Hooks installed.
+[21:33:56.993336] (system)	ML-ReloadAll: Script terminated. (id:4)
+[21:33:57.003836] (system)	Admin Tools RRP 08: Script terminated. (id:1)
+[21:33:57.006823] (system)	ML-AutoReboot: Script terminated. (id:2)
+[21:33:57.006823] (system)	Check MoonLoader Updates: Script terminated. (id:3)
+[21:33:57.006823] (system)	SF Integration: Script terminated. (id:5)
+[21:33:57.007820] (system)	Loading script "E:\games\RADMIR MOONLOADER\moonloader\atools.luac"...	(id:1)
+[21:33:57.020288] (system)	Admin Tools RRP 08: Loaded successfully.
+[21:33:57.020288] (system)	Loading script "E:\games\RADMIR MOONLOADER\moonloader\AutoReboot.lua"...	(id:2)
+[21:33:57.022817] (system)	ML-AutoReboot: Loaded successfully.
+[21:33:57.022817] (system)	Loading script "E:\games\RADMIR MOONLOADER\moonloader\check-moonloader-updates.lua"...	(id:3)
+[21:33:57.024813] (system)	Check MoonLoader Updates: Loaded successfully.
+[21:33:57.024813] (system)	Loading script "E:\games\RADMIR MOONLOADER\moonloader\reload_all.lua"...	(id:4)
+[21:33:57.024813] (system)	ML-ReloadAll: Loaded successfully.
+[21:33:57.024813] (system)	Loading script "E:\games\RADMIR MOONLOADER\moonloader\SF Integration.lua"...	(id:5)
+[21:33:57.027100] (system)	SF Integration: Loaded successfully.
+[21:35:21.316319] (system)	Unloading...
+[21:35:21.316319] (system)	Admin Tools RRP 08: Script terminated. (id:1)
+[21:35:21.319391] (system)	ML-AutoReboot: Script terminated. (id:2)
+[21:35:21.319391] (system)	Check MoonLoader Updates: Script terminated. (id:3)
+[21:35:21.319391] (system)	ML-ReloadAll: Script terminated. (id:4)
+[21:35:21.319391] (system)	SF Integration: Script terminated. (id:5)
+[21:35:21.391159] (system)	Session terminated.
