@@ -1,0 +1,59 @@
+commands = {}
+dependencies = {
+   mimgui = {
+      ["1.4.0-1"] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               },
+               {
+                  op = "<",
+                  version = {
+                     5, 4, string = "5.4"
+                  }
+               }
+            },
+            name = "lua"
+         }
+      }
+   }
+}
+modules = {
+   ["mimgui.cdefs"] = {
+      "mimgui/1.4.0-1"
+   },
+   ["mimgui.cimguidx9"] = {
+      "mimgui/1.4.0-1"
+   },
+   ["mimgui.dx9"] = {
+      "mimgui/1.4.0-1"
+   },
+   ["mimgui.imgui"] = {
+      "mimgui/1.4.0-1"
+   },
+   ["mimgui.init"] = {
+      "mimgui/1.4.0-1"
+   }
+}
+repository = {
+   mimgui = {
+      ["1.4.0-1"] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {},
+            modules = {
+               ["mimgui.cdefs"] = "mimgui/cdefs.lua",
+               ["mimgui.cimguidx9"] = "mimgui/cimguidx9.dll",
+               ["mimgui.dx9"] = "mimgui/dx9.lua",
+               ["mimgui.imgui"] = "mimgui/imgui.lua",
+               ["mimgui.init"] = "mimgui/init.lua"
+            }
+         }
+      }
+   }
+}
